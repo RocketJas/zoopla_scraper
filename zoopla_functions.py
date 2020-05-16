@@ -181,6 +181,8 @@ def update_property_data(postcode,radius,sale_status,file_name):
         dict_writer.writerows(all_properties)
         
     return all_properties
+
+#adding a comment here to check how version control works
     
 
 
